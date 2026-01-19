@@ -5,3 +5,4 @@ if bil % 2 = 0:
 else:
     print(bil, adalag ganjil")
     
+progaram ini saya buat di code space
